@@ -615,6 +615,12 @@ display: flex;
   justify-content: center;
   margin-right: 10px;
 }
+.form-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .fly {
   margin-left: 10px;
 }
